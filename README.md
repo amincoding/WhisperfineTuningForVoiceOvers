@@ -1,2 +1,1 @@
-# WhisperfineTuningForVoiceOvers
-Fine tuning a Whisper model on Audio data for voice feature reproduction
+## Fine-Tuning Whisper Model on Your Voice for Speech Generation

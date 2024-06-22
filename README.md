@@ -1,4 +1,4 @@
-## Fine-Tuning Whisper Model on Your Voice for Speech Generation
+# Fine-Tuning Whisper Model on Your Voice for Speech Generation
 Prerequisites
 1. **Data Preparation:** A dataset of your voice, preferably clean and well-segmented audio clips paired with corresponding transcripts.
 2. **Python and Libraries:** Install Python and the necessary libraries (transformers, datasets, torchaudio).
